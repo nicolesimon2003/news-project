@@ -1,0 +1,55 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.News" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryVariant">@color/gold</item>
+        <item name="android:statusBarColor">@color/green</item>
+    </style>
+
+    <style name="Theme.News" parent="Base.Theme.News" />
+
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/green</item>
+    </style>
+
+    <style name="ScreenBackground">
+        <item name="android:background">@color/green</item>
+    </style>
+
+    <style name="FabBackground">
+        <item name="android:backgroundTint">@color/gold</item>
+    </style>
+
+    <style name="CategoryFrame">
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="ToolbarBackground">
+        <item name="android:background">@color/green</item>
+    </style>
+
+    <style name="CardBackground" parent="CardView">
+        <item name="cardBackgroundColor">@color/light_green</item>
+    </style>
+
+    <style name="TextColor">
+        <item name="android:textColor">@color/red</item>
+    </style>
+
+    <style name="TextColor2">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="TextColor3">
+        <item name="android:textColor">@color/gold</item>
+    </style>
+
+    <style name="AuthBackground">
+        <item name="android:backgroundTint">@color/white</item>
+    </style>
+
+    <style name="splashBackground">
+        <item name="android:src">@drawable/splash_bg</item>
+    </style>
+</resources>
