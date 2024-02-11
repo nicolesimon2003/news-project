@@ -27,11 +27,11 @@
         android:fontFamily="sans-serif-medium"
         android:text="BS Accounting Information System"
         android:textSize="22sp"
-        app:layout_constraintBottom_toBttomOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop-toBottomOf="@id/profile_image"
-        tools:layout_editor_absoluteY="404dp" />
+        app:layout_constraintTop_toBottomOf="@id/profile_image"
+        app:layout_constraintVertical_bias="0.037" />
 
     <TextView
         android:id="@+id/textView"
@@ -61,7 +61,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.869"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraitTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

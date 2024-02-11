@@ -40,8 +40,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif-medium"
         android:gravity="center"
-        android:text="Shape future business leaders with our BS Business Administration program, specializing in Marketing or Finance.
-Enroll today to develop essential skills for success!"
+        android:text="Shape future business leaders with our BS Business Administration program, specializing in Marketing or Finance. Enroll today to develop essential skills for success!"
         android:textSize="12sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -61,7 +60,7 @@ Enroll today to develop essential skills for success!"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.868"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraitTop_toTopOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.9" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

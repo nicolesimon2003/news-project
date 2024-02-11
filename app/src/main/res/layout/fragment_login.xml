@@ -22,7 +22,6 @@
        <LinearLayout
            android:layout_width="match_parent"
            android:layout_height="wrap_content"
-           android:background="@color/transparent_night"
            android:orientation="vertical"
            android:padding="28dp">
 
@@ -141,7 +140,7 @@
                android:gravity="center"
                android:orientation="vertical">
 
-               <ImageButton
+               <ImageView
                    android:id="@+id/imageButton"
                    android:layout_width="50dp"
                    android:layout_height="50dp"

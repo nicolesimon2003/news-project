@@ -1,4 +1,6 @@
 package com.example.news.ui.category
 
-class CategoryItem {
-}
+data class CategoryItem (
+    val image:Int,
+    val departMentName:String,
+)

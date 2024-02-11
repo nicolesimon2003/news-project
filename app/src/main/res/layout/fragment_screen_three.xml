@@ -40,8 +40,7 @@
         android:layout_marginStart="30sp"
         android:layout_marginEnd="30sp"
         android:fontFamily="sans-serif-medium"
-        android:text="Discover the path to excelling in tourism services across cultures with our BS Tourism program.
-Enroll now to explore the world and its endless possibilities!"
+        android:text="Discover the path to excelling in tourism services across cultures with our BS Tourism program. Enroll now to explore the world and its endless possibilities!"
         android:textSize="12sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -60,7 +59,7 @@ Enroll now to explore the world and its endless possibilities!"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.868"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraitTop_toTopOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.9" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
